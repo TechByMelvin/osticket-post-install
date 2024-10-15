@@ -49,19 +49,38 @@ This document outlines the configuration settings and functionalities within the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/sKcZKrH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3.Configure Departments
+
+ 1.In the Admin Panel, select Agents > Departments.
+
+ 2.Set up departments for better ticket categorization:
+ 
+ -SysAdmins: Handles technical issues.
+
+ -Help Desk: General support queries.
+
+ -Networking: Manages network-related requests.
+
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EpU16Wd.jpg" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. Configure Teams
+
+1.Access the Admin Panel.
+
+2.Navigate to Agents > Teams.
+
+3.Pull agents from different departments to create specialized teams:
+
+  -Online Banking: Focused support for online banking issues.
 </p>
 <br />
 
