@@ -114,10 +114,19 @@ This document outlines the configuration settings and functionalities within the
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3Q9nwu2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. Configure Users (Customers)
+
+1.Switch to the Agent Panel.
+
+2.Navigate to Users > Add New.
+
+3.Add user profiles:
+-Karen Love
+
+
 </p>
 <br />
 
